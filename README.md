@@ -1,4 +1,4 @@
-# Kazakh_Finite-State-Transducer
+# Kazakh Finite-State-Transducer
 
 Two simple, sample finite-state transducers for Kazakh.
 
