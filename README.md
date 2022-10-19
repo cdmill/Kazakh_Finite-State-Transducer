@@ -1,4 +1,4 @@
-# Kazakh Finite-State-Transducer
+# Kazakh Finite-State Transducer
 
 Two simple, *sample* finite-state transducers for Kazakh. These use the proposed modified latin alphabet for Kazakh (2021), but could easily be modified if there were to be any more changes or if a Cyrillic version was to be added.
 
