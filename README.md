@@ -1,6 +1,6 @@
 # Kazakh Finite-State Transducer
 
-Two simple, *sample* finite-state transducers for Kazakh. These use the proposed modified latin alphabet for Kazakh (2021), but could easily be modified if there were to be any more changes or if a Cyrillic version was to be added.
+Two *sample* finite-state transducers for Kazakh. These use the proposed modified latin alphabet for Kazakh (2021), but could easily be modified if there were to be any more changes or if a Cyrillic version was to be added.
 
 The first FST is a grapheme-to-phoneme transducer. This translates a given Kazakh word into IPA. For example, if **jaqsı** were used as an input, then **ʒaqsɯ** would be returned.
 
